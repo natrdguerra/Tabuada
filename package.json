@@ -1,0 +1,20 @@
+{
+  "name": "tabuada",
+  "version": "1.0.0",
+  "description": "Tabuada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natália Guerra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natrdguerra/Tabuada.git"
+  },
+  "bugs": {
+    "url": "https://github.com/natrdguerra/Tabuada/issues"
+  },
+  "homepage": "https://github.com/natrdguerra/Tabuada#readme"
+}
